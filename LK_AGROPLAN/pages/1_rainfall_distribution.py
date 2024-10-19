@@ -4,7 +4,7 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 import streamlit as st
 
-# Set the title of the app
+# Set the title of the page
 st.title("Rainfall Distribution in Sri Lanka")
 
 # Load the shapefiles
@@ -41,4 +41,4 @@ plt.title(f"Rainfall Data on {selected_date}")
 plt.axis('off')  # Turn off the axis
 
 # Show the plot in the Streamlit app
-st.pyplot(fig, clear_figure=True)
+st.pyplot(fig)
