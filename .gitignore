@@ -1,3 +1,3 @@
-datasets/lk_shp
-datasets/*.zip
-datasets/*.csv
+LK_AGROPLAN/datasets/lk_shp
+LK_AGROPLAN/datasets/*.zip
+LK_AGROPLAN/datasets/*.csv
