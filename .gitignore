@@ -1,3 +1,5 @@
-LK_AGROPLAN/datasets/lk_shp
-LK_AGROPLAN/datasets/*.zip
-LK_AGROPLAN/datasets/*.csv
+# Ignore the datasets folder and everything inside it
+LK_AGROPLAN/datasets/*
+
+# Do not ignore the datasets.md file
+!LK_AGROPLAN/datasets/datasets.md

@@ -12,8 +12,3 @@ git clone git@github.com:SasikaA073/AgroPlan-m.git
 chmod +x setup_geoenv.sh
 ./setup_geoenv.sh
 ```
-
-3. 
-
-```bash 
-cd LK
