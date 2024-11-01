@@ -1,4 +1,3 @@
-# Ignore the datasets folder and everything inside it
 LK_AGROPLAN/datasets/*
 
 # Do not ignore the datasets.md file

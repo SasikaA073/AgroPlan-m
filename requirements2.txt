@@ -1,0 +1,4 @@
+# python3.10.12
+conda install -c conda-forge geopandas==1.0.1
+conda install anaconda::streamlit
+conda install conda-forge::rasterio
