@@ -1,4 +1,0 @@
-geopandas==1.0.1
-streamlit
-rasterio
-matplotlib

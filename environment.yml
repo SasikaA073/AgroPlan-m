@@ -1,0 +1,9 @@
+name: spark
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.12
+  - geopandas=1.0.1
+  - streamlit
+  - rasterio
