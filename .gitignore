@@ -1,4 +1,2 @@
-LK_AGROPLAN/datasets/*
-
-# Do not ignore the datasets.md file
-!LK_AGROPLAN/datasets/datasets.md
+LK_agroplan/data/solar/worldbank/*
+**/__pycache__/** 
