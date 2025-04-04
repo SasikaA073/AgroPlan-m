@@ -40,7 +40,7 @@ showGrid = st.sidebar.checkbox("Show Grid", value=True)
 cmap = st.sidebar.selectbox("Select Colormap", config.cmaps_list, index=0)
 
 # Create a dropdown for selecting the metric
-metric = "pvout"
+metric = st.sidebar.selectbox("Select Metric", list(geotiff_files_dict.keys())[:-1])  # Exclude metadata
 
 # Get the selected TIFF file and its metadata
 tiff_file_path = geotiff_files_dict[metric]
