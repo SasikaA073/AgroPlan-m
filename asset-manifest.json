@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AgroPlan-m/static/css/main.4ec1c71e.css",
+    "main.js": "/AgroPlan-m/static/js/main.91e7b24a.js",
+    "static/js/453.363b558d.chunk.js": "/AgroPlan-m/static/js/453.363b558d.chunk.js",
+    "index.html": "/AgroPlan-m/index.html",
+    "main.4ec1c71e.css.map": "/AgroPlan-m/static/css/main.4ec1c71e.css.map",
+    "main.91e7b24a.js.map": "/AgroPlan-m/static/js/main.91e7b24a.js.map",
+    "453.363b558d.chunk.js.map": "/AgroPlan-m/static/js/453.363b558d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ec1c71e.css",
+    "static/js/main.91e7b24a.js"
+  ]
+}
