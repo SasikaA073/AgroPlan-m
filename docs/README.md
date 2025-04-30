@@ -54,3 +54,7 @@ The following colormaps are supported:
 ## License
 
 This project is licensed under [Your License Here].
+
+## EcoNova 
+![image](https://github.com/user-attachments/assets/d1ad6661-32e5-41bd-ad2e-73f39f38ad30)
+
